@@ -13,36 +13,35 @@ baseurl: ""
 lang: en
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone:
+timezone: America/New_York
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Baycii-Labs TECH Notes # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: Welcome To Baycii-Labs documentation  # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
-
+ Welcome To Baycii-Labs documentation
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ""
+url: "https://omarkammouna.github.io"
 
 github:
   username: github_username # change to your github username
 
 twitter:
-  username: twitter_username # change to your twitter username
+  username: omarkammouna # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
+  name: bayciilabs
   email: example@domain.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
-    - https://github.com/username # change to your github homepage
+    - https://twitter.com/bayciilabs # change to your twitter homepage
+    - https://github.com/bayciilabs # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -80,7 +79,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://hv-hive-drive.s3-accelerate.amazonaws.com/c22ScLajDBn7dvhXF/LNx3qjWYLL7E2gbbX/BAYCII%20Labs%20png.png?AWSAccessKeyId=AKIAV6UM3WX3YE26XTWY&Expires=1686901150&Signature=vSRclQinQJSLO8a%2FtSDV%2FNJdxWU%3D
 
 # boolean type, the global switch for TOC in posts.
 toc: true
