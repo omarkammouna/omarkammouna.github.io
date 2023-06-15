@@ -1,4 +1,6 @@
-
+---
+title : WSL2 UBUNTU SETUP 
+---
 #  Wsl2 Ubuntu Setup
 
 Follow these steps to set up WSL2 with Ubuntu on Windows:

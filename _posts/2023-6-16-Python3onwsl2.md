@@ -1,3 +1,8 @@
+---
+title : SETUP PYTHON ON WSL2
+---
+
+
 #### PYTHON3 ON WSL2
 To install Python use this command:
 ```
