@@ -8,16 +8,16 @@ Now we need to add the PATH to bashrc. Go to your home directory  and open the .
 export PATH=”$PATH:/home/your_linux_username/.local/bin”
 
 ```
-Python is installed successfully! Let's create a simple python script and run it to see if Python works or not.
-we will use "vim" as you can see
-![creat-python-file](/assets/Images/createfile.png)
 
+Python is installed successfully! Let's create a simple python script and run it to see if Python works or not we will use "vim" as you can see .
+![creat-python-file](/assets/Images/createfile.png)
 1.I created a python script test.py and opened it with Vim so that I don't need to leave the terminal. You can use any text editor
-#note: if you open vim in order to code you have to press "qa" and hit "Enter" 
+
+# note: if you open vim in order to code you have to press "qa" and hit "Enter" 
 ![creat-python-script](/assets/Images/createscript.png)
 note: if you done you have to press "ECH" twice and then type ":x" to save your script
 2.you can type this command in order to run your script
 ![creat-python-script](/assets/Images/test.png)
 3.you should get this output
 ![creat-python-script](/assets/Images/tests.png) 
-####Congratulations! You have successfully set up python3 on wsl .
+#### Congratulations! You have successfully set up python3 on wsl .
