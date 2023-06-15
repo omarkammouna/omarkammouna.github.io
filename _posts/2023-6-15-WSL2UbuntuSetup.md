@@ -12,7 +12,7 @@ Follow these steps to set up WSL2 with Ubuntu on Windows:
 
 2. **Install Ubuntu**
    - Open Microsoft Store.
-   - Search for "Ubuntu" and select the latest version.
+   - Search for "Ubuntu" and select Ubuntu 20.04.6 TLS.
    - Click "Install" and wait for the installation to finish.
 
 3. **Launch Ubuntu**
