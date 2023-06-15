@@ -1,5 +1,5 @@
 ---
-title : SETUP PYTHON ON WSL2
+title : PYTHON3 ON WSL2
 ---
 
 
