@@ -20,4 +20,9 @@ note: if you done you have to press "ECH" twice and then type ":x" to save your 
 ![creat-python-script](/assets/Images/test.png)
 3.you should get this output
 ![creat-python-script](/assets/Images/tests.png) 
+
+
+
+
+
 #### Congratulations! You have successfully set up python3 on wsl .
