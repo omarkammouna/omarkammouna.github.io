@@ -39,3 +39,5 @@ Follow these steps to set up WSL2 with Ubuntu on Windows:
 Congratulations! You have successfully set up WSL2 Ubuntu on your Windows machine.
 
 > Note: Remember to consult the official Microsoft documentation for any specific updates or changes to the setup process.
+------------------------------------------------------------
+> by-OmarKammoun

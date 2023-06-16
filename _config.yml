@@ -79,7 +79,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://hv-hive-drive.s3-accelerate.amazonaws.com/c22ScLajDBn7dvhXF/LNx3qjWYLL7E2gbbX/BAYCII%20Labs%20png.png?AWSAccessKeyId=AKIAV6UM3WX3YE26XTWY&Expires=1686901150&Signature=vSRclQinQJSLO8a%2FtSDV%2FNJdxWU%3D
+avatar: https://hv-hive-drive.s3.amazonaws.com/c22ScLajDBn7dvhXF/LNx3qjWYLL7E2gbbX/BAYCII%20Labs%20png.png?AWSAccessKeyId=AKIAV6UM3WX3RULI7NX7&Expires=1686996567&Signature=nGT2%2FSjh2gTMrxDO1c2JbEsKHxU%3D
 
 # boolean type, the global switch for TOC in posts.
 toc: true

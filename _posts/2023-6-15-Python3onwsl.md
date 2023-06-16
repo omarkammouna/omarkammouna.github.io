@@ -29,8 +29,64 @@ Python is installed successfully! Let's create a simple python script and run it
 
 ![creat-python-script](/assets/Images/tests.png) 
 
+### Create a Dockerfile:
 
 
+Create a file named `Dockerfile` :
+```
+touch dockerfile
+```
 
+using a text editor of your choice: 
 
-#### Congratulations! You have successfully set up python3 on wsl .
+```
+vim dockerfile
+```
+
+Define the Docker image:
+
+In the `Dockerfile`, define the instructions for building the Docker image. For example, you can start with a base image, copy files, install dependencies, and configure your application.
+
+Here's a basic example to get you started:
+
+```
+FROM python:3.10
+
+WORKDIR /app
+
+COPY script.py .
+
+CMD ["python", "script.py"]
+
+```
+# run the following command to add your user to the Docker group:
+```
+sudo usermod -aG docker $USER
+
+```
+>  note : Log out of your user session and log back in for the changes to take effect.
+
+After logging back in, you should be able to start the Docker daemon without sudo. Use the following command to start the Docker daemon as a service:
+```
+service docker start
+
+```
+Build the Docker image:
+
+In the terminal, navigate to the directory containing the Dockerfile.
+
+Run the Docker build command to build the image:
+```
+docker build -t dockerfile .
+
+```
+To run the Docker image you've built, you can use the docker run command. Here's the command you can use:
+
+```
+docker run <image-name>
+
+```
+
+#### Congratulations! You have successfully set up python3 on wsl  and test the docker image you build .
+------------------------------------------------------------
+> by-OmarKammoun
