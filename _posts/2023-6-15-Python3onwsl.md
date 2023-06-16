@@ -54,7 +54,7 @@ FROM python:3.10
 
 WORKDIR /app
 
-COPY script.py .
+COPY test.py .
 
 CMD ["python", "script.py"]
 
