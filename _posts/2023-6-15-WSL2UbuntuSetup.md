@@ -40,4 +40,4 @@ Congratulations! You have successfully set up WSL2 Ubuntu on your Windows machin
 
 > Note: Remember to consult the official Microsoft documentation for any specific updates or changes to the setup process.
 ------------------------------------------------------------
-> by-OmarKammoun
+> by-OmarKammoun-
