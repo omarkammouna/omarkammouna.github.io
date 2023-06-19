@@ -33,4 +33,3 @@ Here are the steps you requested in Markdown format:
 4. After finishing, it is recommended to reboot your computer.
 5. After rebooting, you can confirm that Ruby and Gem are installed and accessible anywhere from your command line by typing the following commands in the terminal:
 
-For Ruby:
