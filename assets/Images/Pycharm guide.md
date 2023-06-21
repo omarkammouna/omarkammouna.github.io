@@ -1,4 +1,4 @@
-**Ticket 157** 
+﻿**Ticket 157** 
 
 **PyCharm editions:**
 
@@ -12,7 +12,7 @@
 
 <https://www.jetbrains.com/fr-fr/pycharm/download/#section=windows>
 
-![](/assets/Images/Aspose.Words.6adb8255-b0f2-4aa4-928d-aa19de95707f.001.png)
+![](Aspose.Words.6adb8255-b0f2-4aa4-928d-aa19de95707f.001.png)
 
 **This is a basic installation video:**
 
@@ -21,15 +21,15 @@
 Np: You can check your email for jetbrains student packs to use the pro edition!
 
 
-![](/assets/Images/Aspose.Words.6adb8255-b0f2-4aa4-928d-aa19de95707f.002.png)
+![](Aspose.Words.6adb8255-b0f2-4aa4-928d-aa19de95707f.002.png)
 
-![](/assets/Images/Aspose.Words.6adb8255-b0f2-4aa4-928d-aa19de95707f.003.png)
+![](Aspose.Words.6adb8255-b0f2-4aa4-928d-aa19de95707f.003.png)
 
-![](/assets/Images/Aspose.Words.6adb8255-b0f2-4aa4-928d-aa19de95707f.004.png)
+![](Aspose.Words.6adb8255-b0f2-4aa4-928d-aa19de95707f.004.png)
 
 **Create fastApi project**
 
-![](/assets/Images/Aspose.Words.6adb8255-b0f2-4aa4-928d-aa19de95707f.005.png)
+![](Aspose.Words.6adb8255-b0f2-4aa4-928d-aa19de95707f.005.png)
 
 **The recommended tools, extensions, and configurations for FastAPI development in PyCharm**
 
@@ -39,31 +39,31 @@ Np: You can check your email for jetbrains student packs to use the pro edition!
 
 **Pydantic plugin:** FastAPI heavily relies on Pydantic for data validation and serialization. Install the "Pydantic" plugin in PyCharm to get better support for Pydantic models, automatic type inference, and validation.
 
-![](/assets/Images/Aspose.Words.6adb8255-b0f2-4aa4-928d-aa19de95707f.006.png)
+![](Aspose.Words.6adb8255-b0f2-4aa4-928d-aa19de95707f.006.png)
 
 **HTTP client:** FastAPI provides built-in support for generating API documentation and testing the endpoints. However, we can further improve the development experience by using the "HTTP Client" tool in PyCharm to send HTTP requests directly from our IDE. This can be useful for testing our API endpoints during development.
 
 **Click Tools | HTTP Client | Create Request in HTTP Client. If a request file is opened in the editor, this will add a request template to the opened file. Otherwise, this will create a new . http scratch file.**
 
-![](/assets/Images/Aspose.Words.6adb8255-b0f2-4aa4-928d-aa19de95707f.007.png)	**![](Aspose.Words.6adb8255-b0f2-4aa4-928d-aa19de95707f.008.png)**
+![](Aspose.Words.6adb8255-b0f2-4aa4-928d-aa19de95707f.007.png)	**![](Aspose.Words.6adb8255-b0f2-4aa4-928d-aa19de95707f.008.png)**
 
 **Formatter and Linter:** Configure code formatting and linting tools like "**Black**" and "**Flake8**" in PyCharm to ensure consistent code style and catch potential errors. We can configure these tools under "Editor" -> "Inspections" and "Editor" -> "Code Style" settings.
 
-![](/assets/Images/Aspose.Words.6adb8255-b0f2-4aa4-928d-aa19de95707f.009.png)
+![](Aspose.Words.6adb8255-b0f2-4aa4-928d-aa19de95707f.009.png)
 
-![](/assets/Images/Aspose.Words.6adb8255-b0f2-4aa4-928d-aa19de95707f.010.png)
+![](Aspose.Words.6adb8255-b0f2-4aa4-928d-aa19de95707f.010.png)
 
 **Debugger:** PyCharm's debugger is a powerful tool for identifying and fixing issues in FastAPI applications. Set breakpoints in the code to analyze variables, step through the code execution, and debug any problems that may arise.
 
 Select **breakpoints**: cntrl + shift + f8
 
-![](/assets/Images/Aspose.Words.6adb8255-b0f2-4aa4-928d-aa19de95707f.011.png)
+![](Aspose.Words.6adb8255-b0f2-4aa4-928d-aa19de95707f.011.png)
 
 **Git integration:** FastAPI projects can benefit from version control using Git. Enable Git integration in PyCharm to manage the project's source code, track changes, and collaborate with teammates effectively.
 
-![](/assets/Images/Aspose.Words.6adb8255-b0f2-4aa4-928d-aa19de95707f.012.png)
+![](Aspose.Words.6adb8255-b0f2-4aa4-928d-aa19de95707f.012.png)
 
-![](/assets/Images/Aspose.Words.6adb8255-b0f2-4aa4-928d-aa19de95707f.013.png)
+![](Aspose.Words.6adb8255-b0f2-4aa4-928d-aa19de95707f.013.png)
 
 **Docker support:** If we are using Docker for containerization, PyCharm provides excellent support for Docker integration. We can configure and manage our Docker containers within the IDE, making it easier to develop and deploy FastAPI applications.
 
@@ -73,7 +73,7 @@ Select **breakpoints**: cntrl + shift + f8
 
 When developing with FastAPI and Uvicorn, FastAPI handles the routing, request validation, response serialization, and API documentation generation, while Uvicorn takes care of serving the FastAPI application and handling the HTTP protocol.This combination provides a robust and efficient framework for building high-performance web APIs in Python.
 
-![](/assets/Images/Aspose.Words.6adb8255-b0f2-4aa4-928d-aa19de95707f.014.png)
+![](Aspose.Words.6adb8255-b0f2-4aa4-928d-aa19de95707f.014.png)
 
 **Configure PyCharm settings**
 
@@ -85,7 +85,7 @@ violation" and "Python type hints" inspections.Save the settings.
 
 Open the "**Settings**" or "Preferences" dialog in PyCharm.Navigate to "**Project**" -> "**Python Interpreter**".Click on the gear icon and select "**Add**" to add a new interpreter.Choose the Python interpreter we installed and click "OK".PyCharm will configure the interpreter for the project.
 
-![](/assets/Images/Aspose.Words.6adb8255-b0f2-4aa4-928d-aa19de95707f.015.png)
+![](Aspose.Words.6adb8255-b0f2-4aa4-928d-aa19de95707f.015.png)
 
 **Configure the Run Configuration**
 
@@ -95,15 +95,15 @@ uvicorn main:app --reload
 
 Replace main with the name of the FastAPI application's main file.
 
-![](/assets/Images/Aspose.Words.6adb8255-b0f2-4aa4-928d-aa19de95707f.016.png)
+![](Aspose.Words.6adb8255-b0f2-4aa4-928d-aa19de95707f.016.png)
 
-![](/assets/Images/Aspose.Words.6adb8255-b0f2-4aa4-928d-aa19de95707f.017.png)
+![](Aspose.Words.6adb8255-b0f2-4aa4-928d-aa19de95707f.017.png)
 
 **And finally we can run the project via that port**
 
-![](/assets/Images/Aspose.Words.6adb8255-b0f2-4aa4-928d-aa19de95707f.018.png)
+![](Aspose.Words.6adb8255-b0f2-4aa4-928d-aa19de95707f.018.png)
 
 **We can use /docs for swagger api**
 
-![](/assets/Images/Aspose.Words.6adb8255-b0f2-4aa4-928d-aa19de95707f.019.png)
+![](Aspose.Words.6adb8255-b0f2-4aa4-928d-aa19de95707f.019.png)
 
