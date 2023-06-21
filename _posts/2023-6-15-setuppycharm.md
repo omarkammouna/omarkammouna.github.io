@@ -45,7 +45,8 @@ Np: You can check your email for jetbrains student packs to use the pro edition!
 
 **Click Tools | HTTP Client | Create Request in HTTP Client. If a request file is opened in the editor, this will add a request template to the opened file. Otherwise, this will create a new . http scratch file.**
 
-![](/assets/Images/Aspose.Words.6adb8255-b0f2-4aa4-928d-aa19de95707f.007.png)	**![](Aspose.Words.6adb8255-b0f2-4aa4-928d-aa19de95707f.008.png)**
+![](/assets/Images/Aspose.Words.6adb8255-b0f2-4aa4-928d-aa19de95707f.007.png)	
+![](/assets/Images/Aspose.Words.6adb8255-b0f2-4aa4-928d-aa19de95707f.008.png)
 
 **Formatter and Linter:** Configure code formatting and linting tools like "**Black**" and "**Flake8**" in PyCharm to ensure consistent code style and catch potential errors. We can configure these tools under "Editor" -> "Inspections" and "Editor" -> "Code Style" settings.
 
