@@ -1,4 +1,6 @@
-**Ticket 157** 
+---
+title : SETUP PYCHARM
+---
 
 **PyCharm editions:**
 
@@ -108,3 +110,4 @@ Replace main with the name of the FastAPI application's main file.
 
 ![](/assets/Images/Aspose.Words.6adb8255-b0f2-4aa4-928d-aa19de95707f.019.png)
 
+by-heni guirat
