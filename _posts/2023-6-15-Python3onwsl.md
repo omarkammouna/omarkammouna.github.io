@@ -13,6 +13,10 @@ Now we need to add the PATH to bashrc. Go to your home directory  and open the .
 export PATH=”$PATH:/home/your_linux_username/.local/bin”
 
 ```
+> note : run this code 
+```
+sudo apt update && sudo apt upgrade -y
+```
 
 Python is installed successfully! Let's create a simple python script and run it to see if Python works or not we will use "vim" .
 # 1. created a python script test.py and opened it with Vim so that I don't need to leave the terminal. You can use any text editor
