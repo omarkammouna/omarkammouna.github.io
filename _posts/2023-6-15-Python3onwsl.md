@@ -17,8 +17,8 @@ export PATH=”$PATH:/home/your_linux_username/.local/bin”
 ```
 sudo apt update && sudo apt upgrade -y
 ```
-ss
-```
+
+
  pip install --upgrade pip
 
 ```
