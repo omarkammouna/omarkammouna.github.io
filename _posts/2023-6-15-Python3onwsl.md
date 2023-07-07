@@ -17,6 +17,51 @@ export PATH=”$PATH:/home/your_linux_username/.local/bin”
 ```
 sudo apt update && sudo apt upgrade -y
 ```
+ss
+```
+ pip install --upgrade pip
+
+```
+```
+```
+sudo python3.10 -m pip install --upgrade pip
+
+```
+```
+sudo python3.10 -m pip install testresources
+
+```
+```
+sudo python3.10 -m ensurepip --upgrade
+
+```
+```
+export PIPENV_PYTHON=/usr/bin/python3.10
+
+```
+
+
+```
+sudo ln -sf /usr/bin/python3.10 /usr/bin/python
+
+```
+
+```
+sudo ln -sf /usr/bin/pip3.10 /usr/bin/pip
+
+```
+
+```
+export PIPENV_PYTHON=/usr/bin/python3.10
+
+```
+```
+sudo mv /usr/bin/python3 /usr/bin/python3.bak
+```
+
+```
+sudo ln -s /usr/bin/python3.10 /usr/bin/python3
+```
 
 Python is installed successfully! Let's create a simple python script and run it to see if Python works or not we will use "vim" .
 # 1. created a python script test.py and opened it with Vim so that I don't need to leave the terminal. You can use any text editor
