@@ -1,6 +1,6 @@
 ---
-title : Setting up the Preconfigured BAYCII Labs WSL 
-by : Wassim Derbel
+title: Setting up the Preconfigured BAYCII Labs WSL 
+author: Wassim Derbel
 ---
 # Tutorial: Setting up the Preconfigured BAYCII Labs WSL Environment
 
